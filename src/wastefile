@@ -1,0 +1,1 @@
+{props.data.map(content => <CircleFrame data={content.name} key={content.key} />)}
